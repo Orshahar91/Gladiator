@@ -9,7 +9,7 @@
 * Run this project in Visual Studio
 * Make sure SFML folder is placed under C:\SFML
 * Run the Game.
-* Enjoy.
+* Enjoy :smiley:
 
 ## Gameplay
 * Use the arrow keys to naviage the galidator through the map.
@@ -20,7 +20,7 @@
 * Advance through all the stages to complete the game.
 
 ## Design
-# UML is avaiable in "ClassDiagram.png" 
+### UML is avaiable in "ClassDiagram.png" 
 * Asset_manager: For loading and managing the resources for the game such as audio files, fonts, images.
 * Menu: The initial menu that show up before the game starts.
 * Button: Class for a single button.
@@ -52,5 +52,9 @@
 *Written by : Or Shahar*
 
 
-
-![MapEditor](/Images/Map_Editor.PNG)
+<p float="left">
+  <img src="/Screenshots/Menu.png" width="400" />
+  <img src="/Screenshots/StageOne.png" width="400" /> 
+  <img src="/Screenshots/StageTwo.png" width="400" />
+  <img src="/Screenshots/StageThree.png" width="400" />
+</p>
