@@ -1,4 +1,4 @@
-# Gladiator Game
+# :crossed_swords: Gladiator Game :crossed_swords:	
 
 * The project was created in order to practice the use Object Oriented Programming, as well as a graphics library - 'SFML'.
 
